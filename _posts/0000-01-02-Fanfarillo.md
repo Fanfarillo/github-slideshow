@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I'm tired and angry but somebody should be.
 Use left arrow to go back!
